@@ -1,7 +1,7 @@
 <!-- 👋 Hi, I’m Karan@sinhaKAN-ra-->
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Karan!
-- 👀 I’m interested in finding solutions to problems (in code, math,and some physics)
-- 🌱 I’m currently learning .. well everyThing
+- 👀 I’m interested in finding solutions related to problems (in computer Science, Mathemathics ,and some physics)
+- 🌱 I’m currently learning .. well basically everyThing -> AI/ML, Android, web :|:|:
 - 💞️ I’m looking to collaborate on open Source projects (in cloud, linux, and stem etc.)
 - 📫 How to reach me ...
 
