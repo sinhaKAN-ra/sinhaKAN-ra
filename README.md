@@ -9,10 +9,10 @@
 sinhaKAN-ra/sinhaKAN-ra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="[linkedin](https://www.linkedin.com/in/sinhakan-ra/)/">
+<a href="(https://www.linkedin.com/in/sinhakan-ra/)/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="[X](https://x.com/karan_knows)">
+<a href="(https://x.com/karan_knows)">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:sinhakaran7701@gmail.com">
